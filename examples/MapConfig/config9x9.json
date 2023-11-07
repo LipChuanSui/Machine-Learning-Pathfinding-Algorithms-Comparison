@@ -1,0 +1,11 @@
+{
+    "sx": 1.0,  
+    "sy": 6.0,  
+    "gx": 6.0,  
+    "gy": 2.0, 
+    "grid_size": 1.0,  
+    "robot_radius": 1.0,  
+    "fig_dim": 9,
+    "map_xlsx": "OccupancyAStar/examples/MapConfig/map9x9.xlsx"
+}
+
